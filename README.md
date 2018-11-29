@@ -6,8 +6,6 @@ Collections of serveless resources and guides
 
 https://medium.com/clog/running-selenium-and-headless-chrome-on-aws-lambda-fb350458e4df
 
-https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/functions/seleniumlambda?tab=graph
-
 https://www.linkedin.com/pulse/ui-testing-using-selenium-webdriver-chrome-inside-aws-moataz-nabil/
 
 https://speakerdeck.com/smithclay/faas-measurement-fundamentals
