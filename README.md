@@ -2,7 +2,7 @@
 Collections of serveless resources and guides
 
 
-
+https://martinfowler.com/articles/serverless.html
 
 https://medium.com/clog/running-selenium-and-headless-chrome-on-aws-lambda-fb350458e4df
 
