@@ -1,7 +1,6 @@
 # awesome-serverless
+### Collections of serveless resources and guides
 
-
-###Collections of serveless resources and guides###
   * [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
   
   * [Running Selenium and Headless Chrome on AWS Lambda](https://medium.com/clog/running-selenium-and-headless-chrome-on-aws-lambda-fb350458e4df)
